@@ -7,9 +7,7 @@ from google.auth.transport.requests import Request
 
 
 def gcp_grp_admin_client():
-    """Shows basic usage of the Admin SDK Directory API.
-    Prints the emails and names of the first 10 users in the domain.
-    """
+    #Shows basic usage of the Admin SDK Directory API.
 
     # If modifying these scopes, delete the file token.pickle.
     SCOPES = ['https://www.googleapis.com/auth/admin.directory.group']
