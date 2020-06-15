@@ -1,6 +1,6 @@
 # gsuite-groups
 
-Creating and managing Gsuite groups.
+Creating and managing Gsuite groups with use of googleapiclient.
 
 #Usage 
 1. pip install -r requirements.txt
