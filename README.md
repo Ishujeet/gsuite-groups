@@ -1,5 +1,7 @@
 # gsuite-groups
 
+Creating and managing Gsuite groups.
+
 #Usage 
 1. pip install -r requirements.txt
 2. Create a service account which has gsuite admin api access
